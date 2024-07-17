@@ -43,7 +43,7 @@
     color: #727272;
   }
   /* primary color */
-.header-footer{
+.header-footer {
   background-color: rgba(255, 144, 14, 0.1);
 }
 
@@ -191,6 +191,16 @@
      }
      .sponsor-companies img{
       filter: grayscale(100%);
+     }
+     /* footer style */
+     .footer{
+      text-align: center;
+      background-color: rgba(255, 144, 14, 0.1);
+      margin: 150px 230px;
+      padding: 25px 300px;
+     }
+     .footer-description{
+      font-size: 1.25rem;
      }
 
 
